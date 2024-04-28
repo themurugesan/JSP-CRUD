@@ -1,1 +1,5 @@
 # JSP-CRUD
+
+
+JAVA SERVELT PAGE, BUILD USING HTML CSS BOOTSTRAP,MYSQL,TOMCAT SERVER
+![JSP Page - Personal - Microsoft​ Edge 23-04-2024 14_00_39](https://github.com/themurugesan/JSP-CRUD/assets/133565834/51cc37b1-3d7a-4428-b6c8-867d369f2b77)
